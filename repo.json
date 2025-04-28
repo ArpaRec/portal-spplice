@@ -1,6 +1,78 @@
 {
   "packages": [
-      {
+    {
+      "title": "DeathBox",
+      "name": "deathbox",
+      "author": "Cosmic and PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/deathbox/deathbox.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/deathbox/deathbox.jpg",
+      "description": "Portal 2 but a Deadly box follows you and tries to kill you.<br><br>The box will gain speed whenever you enter a portal.",
+      "weight": 1187
+    },
+    {
+      "title": "Cold Potato",
+      "name": "holdmod",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/holdmod/holdmod.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/holdmod/holdmod.jpg",
+      "description": "Once you pick up an object, letting go of it quickly drains your health. You cannot pass through portals until you've picked something up in the current level. If you have, elevator rooms also become safe zones. Props don't collide with the player or each other.",
+      "weight": 471
+    },
+    {
+      "title": "Rocket Launcher",
+      "name": "rockets",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/rockets/rockets.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/rockets/rockets.jpg",
+      "description": "Replaces the portal gun with a rocket launcher. Left mouse button to fire. Allows for rocket jumping.<br><br>Currently unbeatable without skipping certain levels.",
+      "weight": 1539
+    },
+    {
+      "title": "Rockets Made Possible",
+      "name": "rockets-possible",
+      "author": "Archer and PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/rockets-possible/rockets-possible.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/rockets-possible/rockets-possible.jpg",
+      "description": "Basically PortalRunner's \"Rocket Launcher\" mod, but with the maps modified to make the game beatable.<br><br>Currently, getting Betsrighter in wakeup is required for the intended solution.",
+      "weight": 6195
+    },
+    {
+      "title": "Odyssey Mod",
+      "name": "odyssey",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/odyssey/odyssey.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/odyssey/odyssey.jpg",
+      "description": "Brings the movement, capture mechanics and collectibles from Super Mario Odyssey to Portal 2.<br><br>The controls are very similar to those in Super Mario Odyssey. Treat your crouch key as the ZL/ZR buttons, your use key as X/Y, and of course, your jump key as A/B.<br><br>You'll have to collect moons which will let you progress to the next chapter. Some are easy, but 100% completion is quite a challenge.",
+      "weight": 6327
+    },
+    {
+      "title": "Liquid Lasers",
+      "name": "liquid-lasers",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/liquid-lasers/liquid-lasers.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/liquid-lasers/liquid-lasers.jpg",
+      "description": "All lasers are now liquid. On an unrelated note, repulsion gel is now red.",
+      "weight": 1075
+    },
+    {
+      "title": "Sonic Portals",
+      "name": "sonic-portals",
+      "author": "DerDilla (v=98)",
+      "file": "https://www.p2r3.com/spplice/repo2/sonic-portals/sonic-portals.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/sonic-portals/sonic-portals.jpg",
+      "description": "Everytime you place a portal, your speed increases.<br><br>This mod starts as soon as you get the dual portal device (incinerator). The first 2 Portals don't increase speed.<br>The speed multiplier is calculated using the formula v(x) =(1/3)*(54-50/x) where x is the amount of counted portals placed.",
+      "weight": 2281
+    },
+    {
+      "title": "Reverse Mod",
+      "name": "reverse",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/reverse/reverse.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/reverse/reverse.jpg",
+      "description": "Chell goes back to sleep, undoing the chaos on her way back by unsolving test chambers and returning the facility to how it was when she woke up.",
+      "weight": 4303
+    },
+    {
       "title": "Size Gun",
       "name": "resize",
       "author": "PortalRunner",
@@ -8,6 +80,240 @@
       "icon": "https://www.p2r3.com/spplice/repo2/resize/resize.jpg",
       "description": "An alternate universe where Valve made a Portal game without the portals.<br>The single-player campaign has been modified to facilitate a \"size gun\" instead of the portal gun.<br><br>Commissioned by Questathana on Ko-fi.",
       "weight": 5663
-      }
+    },
+    {
+      "title": "Magnetic Portals",
+      "name": "magnets",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/magnets/magnets.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/magnets/magnets.jpg",
+      "description": "Blue portal repels, orange portal attracts.",
+      "weight": 1666
+    },
+    {
+      "title": "Floor is Lava",
+      "name": "floorislava",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/floorislava/floorislava.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/floorislava/floorislava.jpg",
+      "description": "Don't stop hopping!",
+      "weight": 794
+    },
+    {
+      "title": "Prop Swap",
+      "name": "propswap",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/propswap/propswap.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/propswap/propswap.jpg",
+      "description": "Looking at a prop and pressing the co-op ping key (F by default) makes you and the prop swap places.<br><br>Props are not solid and cannot pass through portals. The use key still works on things like buttons and cores.",
+      "weight": 2102
+    },
+    {
+      "title": "Infinite Portals",
+      "name": "multiportal",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/multiportal/multiportal.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/multiportal/multiportal.jpg",
+      "description": "Every time you open a pair of portals, it starts a new set and locks in the previous one.<br><br>A locked-in set of portals cannot be moved or replaced. Passing through a fizzler will not work either.",
+      "weight": 3704
+    },
+    {
+      "title": "Portal 2: Grapple Gun",
+      "name": "portal-2-grapple-gun",
+      "author": "Rip Rip Rip",
+      "file": "https://www.p2r3.com/spplice/repo2/grapple/portal-2-grapple-gun.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/grapple/portal-2-grapple-gun.jpg",
+      "description": "A mod where the portal gun, is replaced by a grapple gun.<br>-----<br>Controls:<br>Left-Click - Set a grapple point/Grab object from far away.<br>Right-Click (whilst holding Left-Click) - Move to grapple point.<br>-----<br>Extra features:<br>- Fully playable P2 campaign! Maps which would have previously been impossible with just the grapple gun have been altered to now be possible, meaning you can play through the whole original campaign without (hopefully) any issues!<br>-----<br>Credits:<br>Badpoolinator - Playtesting, feedback.<br>laVashik - Vscript Library",
+      "weight": 4
+    },
+    {
+      "title": "Portal 2: Grapple Gun - No Altered Maps",
+      "name": "portal-2-grapple-gun-noalteredmaps",
+      "author": "Rip Rip Rip",
+      "file": "https://www.p2r3.com/spplice/repo2/grapple/portal-2-grapple-gun-noalteredmaps.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/grapple/portal-2-grapple-gun-noalteredmaps.jpg",
+      "description": "A mod where the portal gun, is replaced by a grapple gun.<br>-----<br>Note: This version DOES NOT INCLUDE the edited versions of the P2 Campaign maps! A good amount of maps will be impossible to complete without cheats!<br>-----<br>Controls:<br>Left-Click - Set a grapple point/Grab object from far away.<br>Right-Click (whilst holding Left-Click) - Move to grapple point.<br>-----<br>Extra features:<br>- (Not in this version) Fully playable P2 campaign! Maps which would have previously been impossible with just the grapple gun have been altered to now be possible, meaning you can play through the whole original campaign without (hopefully) any issues!<br>-----<br>Credits:<br>Badpoolinator - Playtesting, feedback.<br>laVashik - Vscript Library",
+      "weight": 3
+    },
+    {
+      "title": "Random Maps",
+      "name": "random",
+      "author": "Cosmic and PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/random/random.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/packages/random/random.jpg",
+      "description": "Ever wanted to see what Portal 2 would be like if it had a Random map order? no, you didn't? well I made it anyway.",
+      "weight": 2551
+    },
+    {
+      "title": "Maxwell The Companion Cat",
+      "name": "maxwell-the-companion-cat",
+      "author": "lillith",
+      "file": "https://www.p2r3.com/spplice/repo2/maxwell/maxwell.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/maxwell/Z.png",
+      "description": "In the rise of anxiety among test subjects. A solution was found, the Companion Cat™.",
+      "weight": 1
+    },
+    {
+      "title": "Backpack Mod",
+      "name": "backpack",
+      "author": "lillith and Soulfur",
+      "file": "https://www.p2r3.com/spplice/repo2/backpack/backpack.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/backpack/backpack.png",
+      "description": "Portal 2, but you get a backpack.. pretty convenient!<br><br>IMPORTANT: For custom backpack navigation keybinds, read 'Portal 2/portal2_tempcontent/cfg/backpack_binds.cfg'<br><br>Credits:<br>Black_Semka, lampishboi - Bug testing<br>Soulfur - Mod picture",
+      "weight": 1705
+    },
+    {
+      "title": "Wormhole Balance",
+      "name": "quantum",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/quantum/quantum.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/quantum/quantum.jpg",
+      "description": "In order to prevent test subjects from inadvertently forming black holes via misuse of wormhole warping technology, the operational range of the Aperture Science Handheld Portal Device has been restricted to a ±10kg mass difference between all interlinked portals.<br><br>In layman's terms, if heavy thing goes into portal A, heavy thing must also go into portal B.",
+      "weight": 910
+    },
+    {
+      "title": "Magnet Balance",
+      "name": "quantum-magnets",
+      "author": "PortalRunner, im_leia",
+      "file": "https://www.p2r3.com/spplice/repo2/quantum-magnets/quantum-magnets.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/quantum-magnets/quantum-magnets.jpg",
+      "description": "Simulates wormhole gravity accumulation via the use of heavily exaggerated magnets. In other words, combines the Wormhole Balance and Magnetic Portals mods for an interesting combination.<br><br>Both mods authored by PortalRunner, combination made by im_leia.",
+      "weight": 616
+    },
+    {
+      "title": "Mid-Air Portals",
+      "name": "airportals",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/airportals/airportals.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/airportals/airportals.jpg",
+      "description": "Lets you place portals mid-air.<br><br>Portals cannot be placed on solid surfaces - placement is instead forced 128 Hammer units in front of the player, facing them. Chamber doors and fizzlers will reject portals, but other than that, no placement restrictions apply.",
+      "weight": 7348
+    },
+    {
+      "title": "Offset Mod",
+      "name": "offsetmod",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/offsetmod/offsetmod.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/offsetmod/offsetmod.jpg",
+      "description": "You can create an anchor point, move any distance away from it, and then use that offset on a different position. In simpler terms, you can pocket your movement for later.<br><br>Use your co-op ping bind to create and apply offsets.",
+      "weight": 4321
+    },
+    {
+      "title": "Vacuum Portals",
+      "name": "vacuum",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/vacuum/vacuum.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/vacuum/vacuum.jpg",
+      "description": "Every time you open a portal, you are pulled towards it with a practically irresistible force. This effect persists until you go through a portal. Idea by Mysheus.",
+      "weight": 3347
+    },
+    {
+      "title": "Peanut Shader",
+      "name": "peanut-shader",
+      "author": "PieyIsAPie",
+      "file": "https://www.p2r3.com/spplice/repo2/peanut-shader/peanut-shader.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/peanut-shader/peanut-shader.png",
+      "description": "The most pretty decent way to replay your favorite game! Or if you are a new player, still a pretty good way to play it! No matter what, it is still a pretty good shader!<br>Made by PieyIsAPie<br>Playtested by nikolan and PieyIsAPie",
+      "weight": 4137
+    },
+    {
+      "title": "Gravity Redirect",
+      "name": "unhinged",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/unhinged/unhinged.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/unhinged/unhinged.jpg",
+      "description": "Gravity follows your feet. Every time you go through a portal, you are rotated so that the exit portal is on the ceiling.",
+      "weight": 4009
+    },
+    {
+      "title": "Everything Swapped",
+      "name": "allswap",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/allswap/allswap.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/allswap/allswap.jpg",
+      "description": "Cubes are swapped with buttons, laser emitters are swapped with receivers, funnels are swapped with bridges, gels are randomized, you get the idea.",
+      "weight": 1756
+    },
+    {
+      "title": "No Object Permanence",
+      "name": "object-permanence",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/object-permanence/object-permanence.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/object-permanence/object-permanence.jpg",
+      "description": "If the world had no object permanence.\n\nObjects disappear entirely if left out of line of sight for more than 0.5 seconds. Objects only become subject to this once they've been observed at least once.",
+      "weight": 722
+    },
+    {
+      "title": "Handheld Portals",
+      "name": "holdportals",
+      "author": "PortalRunner",
+      "description": "Lets you pick up and move portals.",
+      "file": "https://www.p2r3.com/spplice/repo2/holdportals/holdportals.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/holdportals/holdportals.jpg",
+      "weight": 2452
+    },
+    {
+      "title": "Magnetic Walls",
+      "name": "fridgemagnet",
+      "author": "PortalRunner",
+      "description": "Props are pulled towards walls and stick to them.\n\nUse your co-op ping tool bind (+mouse_menu) to toggle between difficulty settings. In easy mode, props stay on buttons and lasers. In hard mode, those elements are ignored.",
+      "file": "https://www.p2r3.com/spplice/repo2/fridgemagnet/fridgemagnet.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/fridgemagnet/fridgemagnet.jpg",
+      "weight": 1250
+    },
+    {
+      "title": "Splatoon Mod",
+      "name": "splatoon",
+      "author": "PortalRunner",
+      "description": "You can shoot ink to paint floors and walls. Swimming in the ink lets you move faster or climb up walls. You can swim under thin obstacles like grates and glass panels.",
+      "file": "https://www.p2r3.com/spplice/repo2/splatoon/splatoon.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/splatoon/splatoon.jpg",
+      "weight": 8190
+    },
+    {
+      "title": "Mid-Portal Teleportation",
+      "name": "mpt",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/mpt/mpt.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/mpt/mpt.jpg",
+      "description": "Everything is teleported to the midpoint between your two portals.",
+      "weight": 888
+    },
+    {
+      "title": "Portal-Firing Turrets",
+      "name": "portal-firing-turrets",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/portal-firing-turrets/portal-firing-turrets.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/portal-firing-turrets/portal-firing-turrets.jpg",
+      "description": "The portal gun creates turrets which fire portals.\n\nCommissioned by GeekPower0.",
+      "weight": 828
+    },
+    {
+      "title": "Linked Outputs",
+      "name": "linked-outputs",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/linked-outputs/linked-outputs.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/linked-outputs/linked-outputs.jpg",
+      "description": "All buttons and lasers are linked together - the last one you (de)activate determines the state of the others. Doors are similarly linked.\n\nCommisioned by rudko.",
+      "weight": 405
+    },
+    {
+      "title": "Camera Shy",
+      "name": "camerashy",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/camerashy/camerashy.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/camerashy/camerashy.jpg",
+      "description": "Stepping inside the line of sight of a camera will instantly kill you. The world is dark, and you have a flashlight. Cameras are also added to some maps which normally don't have them.",
+      "weight": 2234
+    },
+    {
+      "title": "Red Light/Green Light",
+      "name": "stoplight",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/stoplight/stoplight.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/stoplight/stoplight.jpg",
+      "description": "Once you get the portal gun, it acts as a traffic light. Green means \"Go!\", yellow means \"Caution!\", and red means \"Stop!\" - if the player is still moving or interacting with something while the light is red, they die immediately and are sent back to the start of the level.<br><br>Save files are disabled. If playing in co-op, only the host/inviter (Atlas) must have the mod.<br><br>Commissioned by Gravitationally Challenged from PortalRunner on Ko-fi.",
+      "weight": 795
+    }
   ]
 }
