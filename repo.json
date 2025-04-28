@@ -1,0 +1,14 @@
+{
+  "packages": [
+    {
+      {
+      "title": "Size Gun",
+      "name": "resize",
+      "author": "PortalRunner",
+      "file": "https://www.p2r3.com/spplice/repo2/resize/resize.tar.xz",
+      "icon": "https://www.p2r3.com/spplice/repo2/resize/resize.jpg",
+      "description": "An alternate universe where Valve made a Portal game without the portals.<br>The single-player campaign has been modified to facilitate a \"size gun\" instead of the portal gun.<br><br>Commissioned by Questathana on Ko-fi.",
+      "weight": 5663
+      }
+  ]
+}
